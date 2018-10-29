@@ -1,7 +1,7 @@
-# Python 笔记
-
-
 [![Nbviewer](https://img.shields.io/badge/launch-nbviewer-green.svg)](https://nbviewer.jupyter.org/github/CarlKing5019/notes-python/blob/master/index.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CarlKing5019/notes-python/master)
+
+
+# Python 笔记
 
 
 1. `Github` 加载 `.ipynb` 速度较慢，建议在 [Nbviewer](https://nbviewer.jupyter.org/github/CarlKing5019/notes-python/blob/master/index.ipynb) 中查看该项目。
