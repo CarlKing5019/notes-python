@@ -1,4 +1,20 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
+# Python 笔记
+
+
+[![Nbviewer](https://img.shields.io/badge/launch-nbviewer-green.svg)](https://nbviewer.jupyter.org/github/CarlKing5019/notes-python/blob/master/index.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CarlKing5019/notes-python/master)
+
+
+1. `Github` 加载 `.ipynb` 速度较慢，建议在 [Nbviewer](https://nbviewer.jupyter.org/github/CarlKing5019/notes-python/blob/master/index.ipynb) 中查看该项目。
+
+
+2. 在 [mybinder.org](https://mybinder.org/v2/gh/CarlKing5019/notes-python/master) 可以在线交编辑、运行该项目中的 `.ipynb` 文件，非常方便。
+
+
+
+
+
+---
+
 
 # 中文 Python 笔记
 
